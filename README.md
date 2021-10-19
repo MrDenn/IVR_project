@@ -1,1 +1,1 @@
-# IVR_project
+# VAPRA - Visual Advertisement Placement Rating Applcation
